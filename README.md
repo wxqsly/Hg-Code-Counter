@@ -6,7 +6,7 @@ This simple tool is aimed at counting the changed lines in Mecurial(hg) version 
 [Platform/Tools needed]
 1 *nix or windows OS;
 2 Hg client installed, and added into OS Environment Path;
-3 Bash shell interepter(cygwin etc.) installed.
+3 Bash shell interepter(Cygwin in windows, for example) installed.
 
 [Configuration]
 Most of configuration are done in file confige.properites, here is the intereptations for each item in this file:
